@@ -1,0 +1,51 @@
+export const items = [
+  {
+    id: 1,
+    name: 'Shirt',
+    img: 'Image',
+    price: '12.50',
+    qtyAvailable: '10',
+  },
+  {
+    id: 2,
+    name: 'Shoes',
+    img: 'Image',
+    price: '40.00',
+    qtyAvailable: '5',
+  },
+  {
+    id: 3,
+    name: 'Longsleeve',
+    img: 'Image',
+    price: '20.30',
+    qtyAvailable: '25',
+  },
+  {
+    id: 4,
+    name: 'Shirt',
+    img: 'Image',
+    price: '9.99',
+    qtyAvailable: '50',
+  },
+  {
+    id: 4,
+    name: 'Shirt',
+    img: 'Image',
+    price: '9.99',
+    qtyAvailable: '50',
+  },
+  {
+    id: 4,
+    name: 'Shirt',
+    img: 'Image',
+    price: '9.99',
+    qtyAvailable: '50',
+  },
+  {
+    id: 4,
+    name: 'Shirt',
+    img: 'Image',
+    price: '9.99',
+    qtyAvailable: '50',
+  },
+];
